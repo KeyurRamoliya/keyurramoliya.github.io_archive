@@ -13,7 +13,6 @@ tags:
 
 # Exploring Top Level Statements - Programs Without Main Methods in C#
 
-## Introduction
 Top-level statements are a new feature introduced in C# 9 that allows you to write code directly at the root of a file, without having to wrap it in a class or a method. This means you can write a complete C# program with just a few lines of code, without the need for a Main method, which is the traditional entry point for C# programs. Top-level statements make it easier to write small and concise programs, such as scripts, code snippets, and one-off applications. They also improve the readability and maintainability of your code by reducing the boilerplate code and indentation levels.
 
 ## The Evolution of C# Program Structure
