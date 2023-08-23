@@ -3,7 +3,6 @@ layout: post
 title: "The Basics of Value Creation"
 categories:
 - business
-- value creation
 author:
 - Keyur Ramoliya
 tags:
