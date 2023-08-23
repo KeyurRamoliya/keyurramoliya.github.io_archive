@@ -28,7 +28,7 @@ To address these challenges, Microsoft introduced .NET Core in 2016 as a new pla
 
 In 2020, Microsoft announced the next major evolution of .NET Core: .NET 5. This was a significant milestone in the .NET journey, as it marked the beginning of a unified vision for the future of .NET development. .NET 5 aimed to bring together the best of both worlds: the power and versatility of .NET Core, and the familiarity and compatibility of .NET Framework. It also aimed to consolidate the various .NET platforms that existed at the time, such as Xamarin for mobile development and Mono for game development.
 
-For comprehencing comparison and evolution of of the .NET Ecosystem, please refer to my detailed blog post on [.NET Framework vs. .NET Core vs. .NET 5/.NET 6](https://www.keyurramoliya.com/2023/08/12/net-framework-vs-net-core-vs-net-5net-6)
+For comprehencing comparison and evolution of of the .NET Ecosystem, please refer to my detailed blog post on [.NET Framework vs. .NET Core vs. .NET 5/.NET 6](https://keyurramoliya.github.io/programming/2023/08/12/NET-Framework-vs-NET-Core-vs-NET-5-NET-6.html)
 
 ### The Role of Unification
 
