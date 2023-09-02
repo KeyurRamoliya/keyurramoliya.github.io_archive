@@ -54,6 +54,8 @@ header_pages:
 #
 show_excerpts: true
 
+google_analytics: G-NB5L9TXBRC
+
 titles_from_headings:
   strip_title: true
   collections: true
