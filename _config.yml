@@ -60,4 +60,4 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-home_post_limit: 10
+home_post_limit: 5
