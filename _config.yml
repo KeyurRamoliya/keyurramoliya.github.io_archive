@@ -10,7 +10,7 @@ description: >
 
 # Build settings
 
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 plugins:
   - jekyll-feed
