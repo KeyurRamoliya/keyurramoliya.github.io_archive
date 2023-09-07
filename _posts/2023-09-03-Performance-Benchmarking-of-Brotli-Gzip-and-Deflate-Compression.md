@@ -262,8 +262,8 @@ The output of this class will be a markdown table that shows the benchmark resul
   [Host]     : .NET 7.0.10 (7.0.1023.36312), X64 RyuJIT AVX2
   DefaultJob : .NET 7.0.10 (7.0.1023.36312), X64 RyuJIT AVX2
 ```
-|   Method |  QualityLevel |         Mean |     Error |    StdDev |    Gen0 |   Gen1 | Allocated |
-|--------- |-------------- |-------------:|----------:|----------:|--------:|-------:|----------:|
+| Method | QualityLevel | Mean | Error | StdDev | Gen0 | Gen1 | Allocated |
+|---------|:--------------|:-------------|:----------|:----------|:--------|:-------|:----------|
 | Brotli -> Compress |       Optimal |   148.022 μs | 1.1940 μs | 1.1168 μs | 13.6719 |      - |  64.15 KB |
 | Brotli -> Compress |       Fastest |     7.774 μs | 0.0900 μs | 0.0842 μs | 13.8855 | 0.1068 |  64.15 KB |
 | Brotli -> Compress | NoCompression |     9.545 μs | 0.0654 μs | 0.0612 μs | 13.8855 | 0.1068 |  64.15 KB |
