@@ -6,3 +6,4 @@ gemspec
 gem "github-pages", group: :jekyll_plugins, ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
 gem "kramdown-parser-gfm" if ENV["JEKYLL_VERSION"] == "~> 3.9"
 gem 'jekyll-paginate'
+gem "jekyll-remote-theme"
